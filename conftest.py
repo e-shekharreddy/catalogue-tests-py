@@ -1,7 +1,7 @@
 import os
 import pytest
 
-CATALOGUE_URL = os.getenv('CATALOGUE_URL', 'http://catalogue.daws88s.online:8080')
+CATALOGUE_URL = os.getenv('CATALOGUE_URL', 'http://catalogue.tsmvr.fun:8080')
 
 
 @pytest.fixture(scope='session')
